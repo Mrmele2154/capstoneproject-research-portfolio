@@ -2,6 +2,10 @@
 
 ### Mindy R. Mele
 
+## Introduction
+
+This repository contains all of the data, materials, and documents used in order to complete the experiment. The data come from my [Google Docs Influences on Goal Orientation Survey](https://docs.google.com/forms/d/13up91gdLWo-2HG7FHqiRYCz_CzbS0Rxida7eLTKutD0/viewform). They were processed and analyzed in R. A poster presentation was created with the results of these analyses.
+
 ##Guide to the Repository Contents
 
 * **Data Directory**: a folder containing the following.
