@@ -13,10 +13,10 @@ This repository contains all of the data, materials, and documents used in order
         * Influences on Goal Orientation Data.csv: Data from my Spring 2016 capstone course.
     * a code book that explains the data in the data files.
     * analysis files
-        * Analysis.Rmd: An R Markdown file that walks through my data analyses and creates the           figure I used in my poster.
-        * Fig1.png: The figure I created for the presentation.
-* **Materials Directory**: a folder containing materials used in the experiments. 
-    * IRB Approval: IRB approval for this project.
+        * Analysis.Rmd: An R Markdown file that walks through my data analyses and creates the           figure I used in my poster presentation.
+        * Fig1.png: The figure I created for the poster presentation.
+* **Materials Directory**: a folder containing materials used in the experiment. 
+    * IRB Approval: IRB approval to complete this experiment.
     * Consent form
     * Debriefing statement
     * Goal description paragraphs
