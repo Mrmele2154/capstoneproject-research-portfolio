@@ -1,6 +1,6 @@
 #Codebook for InfluencesonGoalOrientationData.csv
 
-The data in Influences on Goal Orientation Data.csv represent data acquired from participants who completed my {https://docs.google.com/forms/d/13up91gdLWo-2HG7FHqiRYCz_CzbS0Rxida7eLTKutD0/viewform}{Google Docs Influences on Goal Orientation Survey}
+The data in Influences on Goal Orientation Data.csv represent data acquired from participants who completed my {https://docs.google.com/forms/d/13up91gdLWo-2HG7FHqiRYCz_CzbS0Rxida7eLTKutD0/viewform}{Google Forms Influences on Goal Orientation Survey}
 
 The data file includes three variables.
 
